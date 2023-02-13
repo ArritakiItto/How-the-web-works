@@ -1,0 +1,29 @@
+What is http?
+Http is know as hyper text transfer protocol, it is used to load
+webpages and hyperlinks, this is how we get data from, and send data to a server. 
+
+What is URL?
+it is a web address, known as uniform resource locator.
+
+What is a DNS?
+It converts addresses to readable human language, known as Domain Name System.
+
+What is a query string?
+the query string allows you to pass key-valu pairs into the URL, in the format
+
+List two HTTP Verbs and their use cases.
+
+
+Patch - updates and modify resources
+
+delete - Deletes resource identified by URL
+
+
+What is an HTTP request?
+
+
+What is an HTTP header? Give a couple examples of request and response headers you have seen.
+
+
+
+What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
